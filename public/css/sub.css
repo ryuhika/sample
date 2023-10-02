@@ -1,0 +1,24 @@
+form{
+  border: 1px solid black;
+  padding: 5rem;
+}
+
+.register{
+  padding-top: 2rem;
+}
+
+.right{
+  padding-top: 2rem;
+}
+
+.register:hover{
+  color: blue;
+}
+
+.login:hover{
+  color: blue;
+}
+
+.right:hover{
+  color: blue;
+}
